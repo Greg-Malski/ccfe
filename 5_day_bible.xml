@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plan>
   <reading>
     <day>1</day>
@@ -29,11 +30,11 @@
   </reading>
   <reading>
     <day>6</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>7</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>8</day>
@@ -65,11 +66,11 @@
   </reading>
   <reading>
     <day>13</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>14</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>15</day>
@@ -101,11 +102,11 @@
   </reading>
   <reading>
     <day>20</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>21</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>22</day>
@@ -137,10 +138,10 @@
   </reading>
   <reading>
     <day>27</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
   <reading>
     <day>28</day>
-    <passage>Extra Day</passage>
+    <passage>ExtraDay</passage>
   </reading>
 </plan>
